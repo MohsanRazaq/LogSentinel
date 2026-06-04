@@ -1,0 +1,1 @@
+# here i will discuss my mistakes i made during this project
